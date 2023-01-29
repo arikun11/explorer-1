@@ -16,7 +16,7 @@
       Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains 🚀
+      XC Cosmos Ecosystem
     </h2>
 
     <div>
