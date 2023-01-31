@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://xc.xxcode.xyz/X.png',
+      icon: 'https://www.0xarikun.xyz/X.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })
@@ -38,17 +38,17 @@ function processMenu() {
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/argiweh',
+    href: 'https://twitter.com/rizalk1140',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'FAQ',
-    href: 'https://github.com/irgirival/explorer',
+    href: 'https://github.com/arikun11/explorer-1',
     icon: 'MessageSquareIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/irgirival/explorer',
+    href: 'https://github.com/arikun11/explorer-1',
     icon: 'GithubIcon',
   })
 
