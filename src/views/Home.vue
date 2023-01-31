@@ -16,7 +16,7 @@
       staking no fee ...🛠
     </p>
     <h2 class="mb-3">
-      0zarikun Cosmos Ecosystem
+      0xarikun Cosmos Ecosystem
     </h2>
 
     <div>
