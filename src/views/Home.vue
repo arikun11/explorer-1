@@ -7,16 +7,16 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          XC Dashboard<small class="flow-left">Beta</small>
+          0xarikun Dashboard<small class="flow-left">Beta</small>
         </h1>
       </div>
     </b-link>
 
     <p class="mb-1">
-      Tong Hilap Ngopi...🛠
+      staking no fee ...🛠
     </p>
     <h2 class="mb-3">
-      XC Cosmos Ecosystem
+      0zarikun Cosmos Ecosystem
     </h2>
 
     <div>
