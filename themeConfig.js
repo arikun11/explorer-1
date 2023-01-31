@@ -9,7 +9,7 @@ export const $themeBreakpoints = {}
 // APP CONFIG
 export const $themeConfig = {
   app: {
-    appName: 'XC', // Will update name in navigation menu (Branding)
+    appName: '0xarikun', // Will update name in navigation menu (Branding)
     // eslint-disable-next-line global-require
     appLogoImage: '/X.png', // Will update logo in navigation menu (Branding)
   },
